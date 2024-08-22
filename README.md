@@ -1,6 +1,6 @@
 # 我的信息
 
-- 邮箱：211614804@qq.com                       
+- QQ邮箱：211614804@qq.com                       
 - 来都来了，点个关注吧！
 - [我的B站主页](https://space.bilibili.com/282990762)
 - [我的Github主页](http://github.com/Philtmy) 
@@ -20,15 +20,27 @@
 
 [什么最健脑？](https://philtmy.github.io/what-exercise-the-brain/)
 
+---
+
+-
+-
+-
+-
+
+
+
 
 ---
 # 考试资料
+- 软考中级网络工程师(完整版) [下载视频课程](https://pan.quark.cn/s/c23e76b2ddbd)
+- 网工考试资料 [下载](https://www.123pan.com/s/w075Vv-n2aFv.html)
+- 华为eNSP软件包 [下载](https://www.123pan.com/s/w075Vv-22aFv.html)
+- 考试工具：华为eNSP (自行安装)
+- 考试笔记：还在整理中....
+- 需要其他资源可以发我邮件
 
-- [软考中级网络工程师(完整版)](https://pan.quark.cn/s/c23e76b2ddbd)
-- 考试笔记：还在整理中...
-- 需要其他资源可以发我邮箱
 
----
+-------------------------------------白嫖我记得打赏一下呦，资料整理不易-------------------------------------
 
 
 
