@@ -24,21 +24,22 @@
 
 考试科目 1：计算机与网络知识
 -
-1. 计算机系统知识
-2. 系统开发和运行基础知识
-3. 网络技术
-4. 网络安全
-5. 网络新技术
-6. 标准化知识
-7. 信息化基础知识
-8. 计算机专业英语
+1. [计算机系统知识](https://nullnopass.github.io/Knowledge-of-computer-systems_Tmy/)
+2. [系统开发和运行基础知识](https://nullnopass.github.io/Fundamentals-of-system-development-and-operation_Tmy/)
+3. [网络技术](https://nullnopass.github.io/Network-technology_Tmy/)
+4. [网络安全](https://nullnopass.github.io/Cybersecurity_Tmy/)
+5. [网络新技术](https://nullnopass.github.io/New-technologies-in-the-network_Tmy/)
+6. [标准化知识](https://nullnopass.github.io/Standardized-knowledge_Tmy/)
+7. [信息化基础知识](https://nullnopass.github.io/Basic-knowledge-of-informatization_Tmy/)
+8. [计算机专业英语](https://nullnopass.github.io/English-for-Computer-Professionals_Tmy/)
 
 考试科目 2∶ 网络系统设计与管理
 -
-1. 网络系统分析与设计
-2. 网络系统的运行、维护管理、评价
-3. 网络系统实现技术
-4. 练习华为eNSP的实验习题(重点！！！) 菜就多练
+1. [网络系统分析与设计](https://nullnopass.github.io/Network-system-analysis-and-design_Tmy/)
+2. [网络系统的运行、维护管理、评价](https://nullnopass.github.io/Operation-maintenance-management-and-evaluation-of-network-systems_Tmy/)
+3. [网络系统实现技术](https://nullnopass.github.io/Network-system-implementation-technology_Tmy/)
+
+>**请疯狂练习华为eNSP的实验习题(重点！！！) 菜就多练**
 
 
 
